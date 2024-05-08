@@ -43,7 +43,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="SQL Sever logo" title="SQLSever" height="25" /></span
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <!--<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span-->
 <!--&nbsp;
