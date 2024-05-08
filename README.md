@@ -46,7 +46,7 @@
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=#3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <!--<span><img src="https://img.shields.io/badge/WordPress-282C34?logo=wordPress&logoColor=21759B" alt="WordPress logo" title="WordPress" height="25" /></span-->
-<!--&nbsp;
+&nbsp;
 
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
