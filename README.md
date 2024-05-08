@@ -101,7 +101,7 @@
 <h2 align="center"> 📌 𝒜𝒷𝑜𝓊𝓉 𝓂𝑒</h2>
 <br>
 <p>
-  <a href="https://www.youtube.com/c/NguyễnĐứcQuân" target="_blank">
+  <a href="https://www.youtube.com/c/NguyenDucQuan" target="_blank">
     <strong>👋 Mình là Quân, hãy đăng ký kênh và ủng hộ mình thường xuyên nhé 👋</strong>
   </a>
 </p>
