@@ -112,6 +112,14 @@
 <p>
 <p><strong>📞 Các bạn có thể liên lạc với mình thông qua các đường link phía trên, xin cảm ơn đã đọc (^_<)〜☆ </strong></p>
 </p>
+<p>
+<p><strong>![HowAnthonyMennellaGIF](https://github.com/user-attachments/assets/1b54f949-c4b2-4465-b9a9-70ba33e7a35e)
+ Cách thức để thực hiện phiên bản giới thiệu như này có thể tham khảo ở đây  &nbsp;
+  <a href="[https://www.youtube.com/c/NguyenDucQuan](https://youtu.be/LUKM7nshZ6Q?si=xSLk2IEgQkgrRzTq)" target="blank">
+    <img width="70" height="70" src="images/youtube.png" alt="NguyenDucQuan-youtube" />
+  </a>
+  &nbsp;</strong></p>
+</p>
 <br><br><br><br>
 <h2 align="center">❤️ My Favorites Quote ❤️</h2>
 <h2 align="center"> 𝑽𝒊̀ 𝒕𝒐̂̉ 𝒒𝒖𝒐̂́𝒄 𝒙𝒂̃ 𝒉𝒐̣̂𝒊 𝒄𝒉𝒖̉ 𝒏𝒈𝒉𝒊̃𝒂, 𝒗𝒊̀ 𝒍𝒚́ 𝒕𝒖̛𝒐̛̉𝒏𝒈 𝒄𝒖̉𝒂 𝑩𝒂́𝒄 𝑯𝒐̂̀ 𝒗𝒊̃ đ𝒂̣𝒊, 𝒔𝒂̆̃𝒏 𝒔𝒂̀𝒏𝒈 !</h2>
