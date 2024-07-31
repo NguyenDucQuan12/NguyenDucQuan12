@@ -113,9 +113,9 @@
 <p><strong>📞 Các bạn có thể liên lạc với mình thông qua các đường link phía trên, xin cảm ơn đã đọc (^_<)〜☆ </strong></p>
 </p>
 <p>
-<p><strong> Cách thức để thực hiện phiên bản giới thiệu như này có thể tham khảo ở đây  <a href="[https://www.youtube.com/c/NguyenDucQuan](https://youtu.be/LUKM7nshZ6Q?si=xSLk2IEgQkgrRzTq)" target="blank">
-    <img width="70" height="70" src="images/youtube.png" alt="NguyenDucQuan-youtube" />
-  </a></strong></p>
+<p><a href="[https://www.youtube.com/c/NguyenDucQuan](https://youtu.be/LUKM7nshZ6Q?si=HMhz4EliOZ6O1PNz)" target="_blank">
+    <strong> 🚸 Tham khảo cách thực hiện trang giới thiệu GitHub tại đây || See how to make a GitHub about page here 🚸</strong>
+  </a>
 </p>
 <br><br><br><br>
 <h2 align="center">❤️ My Favorites Quote ❤️</h2>
