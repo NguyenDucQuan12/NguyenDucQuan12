@@ -20,6 +20,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=codeceptjs&logoColor=#F6E05E" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Virtual_Environment-282C34?logo=.env&logoColor=##ECD53F" alt="Virtual environment logo" title="Virtual Environment" height="25" /></span>
+&nbsp;
 <!--Các kỹ năng bên dưới sẽ được mở khóa khi bạn học được -->
 <!--&nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span-->
