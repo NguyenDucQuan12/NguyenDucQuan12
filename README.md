@@ -110,7 +110,8 @@
 <p><strong>☝ Mình sinh ra và lớn lên ở Hà Tĩnh, sau này được đi học ở trường Đại học Bách khoa Hà Nội, chuyên ngành điện tử viễn thông, nhưng lại có niềm đam mê lớn với công nghệ thông tin. Vì vậy mình đã tìm được một số thứ thú vị từ GitHub, có profile này chẳng hạn. Profile này mình tìm thấy từ GitHub của anh TrungQuandev, mình thấy khá thú vị nên đã clone về và chỉnh sửa lại phù hợp với bản thân. Mình xin cảm ơn anh. </strong></p>
 <p><strong>✌ Mình thực hiện đam mê này là để phục vụ bản thân nên nó không chỉ là công nghệ thông tin, mà còn bao gồm cả đời sống cá nhân, vui chơi, giải trí, vì vậy mọi người hãy có thể ghé qua các mạng xã hội của mình để bình phẩm cũng như góp ý giúp mình hoàn thiện tốt hơn. </strong></p>
 <p>
-<p><strong>🤟 Mình có bao nhiêu vị khách ghé thăm rồi nhỉ: <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12&countColor=%23263759" /></a></strong></p>
+  <!-- Tạo api người tham quan tại đây-->
+<p><strong>🤟 Mình có bao nhiêu vị khách ghé thăm rồi nhỉ: <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FNguyenDucQuan12%2FNguyenDucQuan12&label=Kh%C3%A1ch%20tham%20quan&labelColor=%2337d67a&countColor=%23ba68c8&style=plastic" /></a></strong></p>
 <p>
 <p><strong>📞 Các bạn có thể liên lạc với mình thông qua các đường link phía trên, xin cảm ơn đã đọc (^_<)〜☆ </strong></p>
 </p>
